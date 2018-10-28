@@ -1,12 +1,11 @@
 .header {
   background: $dark-blue;
-  color: yellow;
 }
 
 .header__content {
   align-items: center;
   display: flex;
-  justify-content: space-between;
+  justify-content: flex-end;
   padding: $s-size 0;
 }
 

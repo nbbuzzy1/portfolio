@@ -25,11 +25,29 @@ button:disabled {
 }
 
 img {
+  border-radius: 10px;
   height: 200px;
   width: 300px;
   margin: $s-size;
+  
 }
 
 h1 {
   text-align: center;
+}
+
+#github {
+  color: white;
+}
+
+#stackOverflow {
+  color: white;
+}
+
+#reactCourse {
+  height: 90px;
+  width: 150px;
+}
+
+#reactCourse:hover {
 }
