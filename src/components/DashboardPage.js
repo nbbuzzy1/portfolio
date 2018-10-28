@@ -11,7 +11,7 @@ const DashboardPage = () => (
         <a href="https://buzzy-indecision.herokuapp.com/"><img src="/images/indecision.jpg" alt="indecision"/></a>
       </div>
       <div>
-        <a href="https://nbbuzzy1.github.io/image-gallery/"><img src="/images/image-gallery.jpg" alt="image-gallery"/></a>
+        <a href="https://nbbuzzy1.github.io/poker/"><img src="/images/poker.jpg" alt="poker"/></a>
       </div>
       <div>
         <a href="https://nbbuzzy1.github.io/todo-list/"><img src="/images/todo-list.jpg" alt="todo-list"/></a>
@@ -27,6 +27,9 @@ const DashboardPage = () => (
       </div>
       <div>
         <a href="https://buzzy-robofriends.herokuapp.com/"><img src="/images/robofriends.jpg" alt="robofriends"/></a>
+      </div>
+      <div>
+        <a href="https://nbbuzzy1.github.io/image-gallery/"><img src="/images/image-gallery.jpg" alt="image-gallery"/></a>
       </div>
     </div>
   </div>
