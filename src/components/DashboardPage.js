@@ -5,6 +5,9 @@ const DashboardPage = () => (
     <h1>Projects</h1>
     <div className="content-container">
       <div>
+        <a href="https://buzzycite-redux.herokuapp.com/"><img src="/images/buzzycite-redux.jpg" alt="buzzycite"/></a>
+      </div>
+      <div>
         <a href="https://buzzy-buzzycite-react.herokuapp.com/"><img src="/images/buzzycite-react.jpg" alt="buzzycite"/></a>
       </div>
       <div>
