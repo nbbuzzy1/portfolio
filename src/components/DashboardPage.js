@@ -8,9 +8,6 @@ const DashboardPage = () => (
         <a href="https://buzzycite-redux.herokuapp.com/"><img src="/images/buzzycite-redux.jpg" alt="buzzycite"/></a>
       </div>
       <div>
-        <a href="https://buzzy-buzzycite-react.herokuapp.com/"><img src="/images/buzzycite-react.jpg" alt="buzzycite"/></a>
-      </div>
-      <div>
         <a href="https://buzzy-expensify.herokuapp.com/"><img src="/images/expensify.jpg" alt="expensify"/></a>
       </div>
       <div>
