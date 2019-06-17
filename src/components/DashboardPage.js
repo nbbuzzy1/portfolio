@@ -5,7 +5,7 @@ const DashboardPage = () => (
     <h1>Projects</h1>
     <div className="content-container">
       <div>
-        <a href="https://buzzycite-redux.herokuapp.com/"><img src="/images/buzzycite-redux-final.jpg" alt="buzzycite"/></a>
+        <a href="https://buzzycite-angular.firebaseapp.com/"><img src="/images/buzzycite-redux-final.jpg" alt="buzzycite"/></a>
       </div>
       <div>
         <a href="https://buzzy-expensify.herokuapp.com/"><img src="/images/expensify.jpg" alt="expensify"/></a>
